@@ -247,7 +247,7 @@
 }
 
 .icons a{
-  margin: 0 25px;
+  margin: 0 15px;
   text-decoration: none;
   color: #fff;
   display: block;
@@ -327,6 +327,7 @@
   opacity: 1;
   transform: translate(20px, -20px);
 }
+
 icons a:hover .layer span:nth-child(6){
   opacity: 1;
   transform: translate(25px, -25px);
